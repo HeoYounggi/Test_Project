@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Framework.cpp
+  xBitStream.cpp
+  xByteBuffer.cpp
+  xIPHeader.cpp
+  xList.cpp
+  xRSCoder.cpp
+  xSerialPort.cpp
+  xService.cpp
+  xTCPServer.cpp
+  xTCPSocket.cpp
+  xThread.cpp
+  xTrace.cpp
+  xUDPSocket.cpp
+  xUtilCRC.cpp
+  xUtils.cpp
+  xUtilSystem.cpp
+  xUtilTAI.cpp
+  xWSAManager.cpp
+     Creating library C:\Projects\Protoss\Application\OutputRel32\Framework.lib and object C:\Projects\Protoss\Application\OutputRel32\Framework.exp
+  Generating code
+  All 409 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Framework.vcxproj -> C:\Projects\Protoss\Application\OutputRel32\Framework.dll

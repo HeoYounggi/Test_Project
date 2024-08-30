@@ -1,0 +1,85 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ generated include file.
+// Used by ACapPlayer.rc
+//
+#define IDD_ABOUTBOX                    100
+#define IDD_ACAPPLAYER_FORM             101
+#define IDR_MAINFRAME                   128
+#define IDR_ACapPlayerTYPE              130
+#define IDI_ICON1                       312
+#define IDB_BITMAP1                     316
+#define IDB_BITMAP2                     318
+#define IDI_ICON2                       321
+#define IDC_STATIC_MAIN_SELECT          1000
+#define IDC_STATIC_MAIN_ADAPTER         1002
+#define IDC_COMBO_MAIN_ADAPTER          1003
+#define IDC_STATIC_MAIN_PACKETFILE      1004
+#define IDC_LIST_MAIN_FILELIST          1005
+#define IDC_BUTTON_MAIN_ADDFILE         1006
+#define IDC_BUTTON_MAIN_CLEAR           1007
+#define IDC_STATIC_MAIN_OPTIONS         1008
+#define IDC_CHECK_MAIN_LOOP             1009
+#define IDC_EDIT_MAIN_LOOP              1010
+#define IDC_SPIN_MAIN_LOOP              1011
+#define IDC_STATIC_MAIN_LOOPS           1012
+#define IDC_STATIC_MAIN_DELAY           1013
+#define IDC_EDIT_MAIN_DELAY             1014
+#define IDC_SPIN_MAIN_DELAY             1015
+#define IDC_STATIC_MAIN_MILLISECONDS    1016
+#define IDC_CHECK_MAIN_IGNORE           1017
+#define IDC_STATIC_MAIN_SENDING         1018
+#define IDC_STATIC_MAIN_CURRENT         1019
+#define IDC_STATIC_MAIN_SENT            1020
+#define IDC_STATIC_MAIN_STATUS          1021
+#define IDC_STATIC_MAIN_PROGRESS        1022
+#define IDC_BUTTON_MAIN_CLOSE           1023
+#define IDC_BUTTON_MAIN_STOP            1024
+#define IDC_BUTTON_MAIN_PLAY            1025
+#define IDC_STATIC_MAIN_CHANGESTATUS    1026
+#define IDC_PROGRESS_MAIN_PROGRESS      1027
+#define IDC_STATIC_MAIN_SENDFILENAME    1028
+#define IDC_STATIC_MAIN_NOWSENDING      1029
+#define IDC_STATIC_MAIN_PIC             1030
+#define IDC_BUTTON_MAIN_PAUSE           1031
+#define IDC_STATIC_MAIN_SENDINGTIME     1032
+#define IDC_STATIC_MAIN_CHANGETIME      1033
+#define IDC_STATIC_ABOUT_CI             1034
+#define IDC_STATIC_ABOUT_VERSION        1035
+#define IDC_STATIC_ABOUT_COPYRIGHT      1036
+#define IDC_STATIC_ABOUT_HOMEPAGE       1037
+#define IDC_STATIC_MAIN_FILEINFO        1038
+#define IDC_STATIC_MAIN_TOTALPACKET     1039
+#define IDC_STATIC_MAIN_SELECTTOTALPACKET 1040
+#define IDC_STATIC_MAIN_ARRIVALTIME     1048
+#define IDC_STATIC_MAIN_SELECTARRIVALTIME 1049
+#define IDC_STATIC_MAIN_FILESIZE        1050
+#define IDC_STATIC_MAIN_SELECTFILESIZE  1051
+#define IDC_STATIC_MAIN_CAPTURETIME     1052
+#define IDC_STATIC_MAIN_SELECTCAPTURETIME 1053
+#define IDC_STATIC_MAIN_BITRATE         1054
+#define IDC_STATIC_MAIN_SELECTBITRATE   1055
+#define IDC_STATIC_MAIN_FILENAME        1056
+#define IDC_STATIC_MAIN_FILEPATH        1057
+#define IDC_STATIC_ABOUT_LOGO           1058
+#define IDC_STATIC_ABOUT_ICON           1059
+#define IDC_PROGRESS_MAIN_FILEOPEN      1060
+#define IDC_STATIC_MAIN_FILEOPEN        1061
+#define IDC_STATIC_MAIN_FILEOPEN_STATUS 1062
+#define IDC_STATIC_MAIN_CURRENTITER     1066
+#define IDC_STATIC_MAIN_CHANGEITER      1067
+#define IDC_STATIC_MAIN_BITRATEGRAPH    1068
+#define IDC_CUSTOM_MAIN_CHART           1071
+#define IDC_STATIC_MAIN_LOOP            1072
+#define IDC_STATIC_MAIN_NOWBITRATE      1073
+#define IDC_STATIC_MAIN_NOWCHANGEBITRATE 1074
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        328
+#define _APS_NEXT_COMMAND_VALUE         32771
+#define _APS_NEXT_CONTROL_VALUE         1075
+#define _APS_NEXT_SYMED_VALUE           310
+#endif
+#endif

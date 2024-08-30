@@ -1,0 +1,23 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Framework.cpp
+  xBitStream.cpp
+  xByteBuffer.cpp
+  xIPHeader.cpp
+  xList.cpp
+  xRSCoder.cpp
+  xSerialPort.cpp
+  xService.cpp
+  xTCPServer.cpp
+  xTCPSocket.cpp
+  xThread.cpp
+  xTrace.cpp
+  xUDPSocket.cpp
+  xUtilCRC.cpp
+  xUtils.cpp
+  xUtilSystem.cpp
+  xUtilTAI.cpp
+  xWSAManager.cpp
+  Generating Code...
+     Creating library C:\Projects\Protoss\Application\OutputDbg32\Framework.lib and object C:\Projects\Protoss\Application\OutputDbg32\Framework.exp
+  Framework.vcxproj -> C:\Projects\Protoss\Application\OutputDbg32\Framework.dll
